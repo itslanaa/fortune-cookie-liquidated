@@ -1,3 +1,4 @@
+// Fortune for the trader who just got liquidated: laugh first, then HODL the crumbs.
 import fs from "node:fs";
 
 const fortune =
